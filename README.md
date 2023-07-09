@@ -1,2 +1,3 @@
 # Chou-Fasman
-Chou-fasman method in python
+Using Python, I have implemented the Chou-Fasman method for predicting
+Protein secondary structure. 
